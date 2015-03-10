@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">單位換算</string>
+    <string name="action_settings">設置</string>
+    <string name="type">選擇單位類型</string>
+    <string name="length">長度</string>
+    <string name="time">時間</string>
+    <string name="unit">選擇單位</string>
+    <string name="input">輸入數字</string>
+    <string name="to">轉換為</string>
+    <string name="output">轉換結果</string>
+    <string name="conversion">換算</string>
+    <string name="caculate">計算</string>
+    <string-array name="length_list">
+        <item>米</item>
+        <item>釐米</item>
+        <item>毫米</item>
+    </string-array>
+    <string-array name="time_list">
+        <item>天</item>
+        <item>小時</item>
+        <item>分鐘</item>
+        <item>秒</item>
+    </string-array>
+</resources>
